@@ -1,13 +1,11 @@
-# Hi I'm Chanchon, Welcome to my github profile 🧑🏻‍💻
-### Skill Programming
+# Hi I'm Chanchon, Welcome to my github profile ✋🏼
+### Skill Programming 🧑🏻‍💻
 - 💻 HTML, CSS, Javascript, C#, C++
 - 📱 Kotlin, Swift
-- 
-## Activity
-```javascript
-function test() {
-  console.log("notice the blank line before this function?");
-}
+-
+## 
+```C++
+cout<<"Hi"<<endl;
 ```
 
 <!---
