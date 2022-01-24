@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @toeypansuwan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi I'm Chanchon, Welcome to my github profile 🧑🏻‍💻
+### Skill Programming
+- 💻 HTML, CSS, Javascript, C#, C++
+- 📱 Kotlin, Swift
+- 
 ## Activity
 ```javascript
 function test() {
