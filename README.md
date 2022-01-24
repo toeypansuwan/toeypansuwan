@@ -4,8 +4,8 @@
 - 📱 Kotlin, Swift
 -
 ## 
-```C++
-cout<<"Hi"<<endl;
+```html
+<p>Hi</p>
 ```
 
 <!---
