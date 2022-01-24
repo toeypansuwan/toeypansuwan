@@ -4,8 +4,10 @@
 - 📱 Kotlin, Swift
 -
 ## 
-```html
-<p>Hi</p>
+```css
+p{
+color:blue;
+}
 ```
 
 <!---
