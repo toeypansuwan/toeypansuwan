@@ -6,7 +6,7 @@
 ## 
 ```css
 p{
-color:blue;
+  color:blue;
 }
 ```
 
