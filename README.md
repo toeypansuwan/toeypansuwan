@@ -1,8 +1,8 @@
 # Hi I'm Chanchon, Welcome to my github profile ✋🏼
 ### Skill Programming 🧑🏻‍💻
-- 💻 HTML, CSS, Javascript, C#, C++
-- 📱 Kotlin, Swift
--
+- 💻 Languages: HTML, CSS, Javascript, PHP, SQL, C#, C++
+- 📱 Mobile Languages: Kotlin, Swift
+- ⚛ Framework: React, Vue.js, Laravel, ASP.NET
 ## 
 ```css
 p{
