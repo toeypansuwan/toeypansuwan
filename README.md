@@ -4,11 +4,6 @@
 - 📱 Mobile Languages: Kotlin, Swift
 - ⚛ Framework: React, Vue.js, Laravel, ASP.NET
 ## 
-```css
-p{
-  color:blue;
-}
-```
 
 <!---
 toeypansuwan/toeypansuwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
